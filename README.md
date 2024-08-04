@@ -1,13 +1,4 @@
 # Pokemon App
 
-We created this app in a LIVE CODING on my youtube channel: https://youtu.be/_9ZbBONllhA
+Created a Pokemon App using Flutter
 
-## Description
-
-We used `Provider` as state management package.
-
-## TODO
-
-- Tests
-
-# Pokemon-App
